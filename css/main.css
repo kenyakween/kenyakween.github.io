@@ -52,12 +52,16 @@
       text-align: center;
   }
   .about{
-    margin: 4em 0;
+    background-image: url('../images/headerback.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin: 0em 0;
     padding: 1em;
     position: relative;
    }
    .about h1{
-    color:#F97300;
+    color:#fff;
     margin: 2em;
    }
    .about img{
@@ -67,7 +71,7 @@
    }
    .about span{
     display: block;
-    color: #888;
+    color: #fff;
     position: absolute;
     left: 115px;
    }
@@ -80,5 +84,5 @@
    }
    .about .desc p{
     line-height:2;
-    color:#888;
+    color:#fff;
    }
