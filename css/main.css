@@ -86,3 +86,11 @@
     line-height:2;
     color:#fff;
    }
+   .portfolio-image   {
+     height: 400px;
+     margin: auto;
+     display: block;
+    }
+    .image-row {
+      margin-top: 30px;
+    }
